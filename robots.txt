@@ -1,0 +1,23 @@
+# robots.txt para Bolicho da Sônia
+# Permite que todos os motores de busca indexem o site
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://bolichodasonia.com.br/sitemap.xml
+
+# Rastreamento otimizado
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+# Bingbot
+User-agent: Bingbot
+Allow: /
+
+# Yandex
+User-agent: YandexBot
+Allow: /

@@ -12,12 +12,17 @@ html {
 body {
   font-family: "Poppins", sans-serif;
   color: #424242;
-  background-color: #FFFFFF;
+  background-color: #ffffff;
   line-height: 1.6;
   overflow-x: hidden;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   font-family: "Nunito", sans-serif;
   font-weight: 700;
   line-height: 1.3;
@@ -95,7 +100,7 @@ section {
 
 .section-title {
   text-align: center;
-  color: #D32F2F;
+  color: #d32f2f;
   margin-bottom: 24px;
   position: relative;
 }
@@ -104,14 +109,14 @@ section {
   display: block;
   width: 60px;
   height: 4px;
-  background-color: #388E3C;
+  background-color: #388e3c;
   margin: 16px auto 0;
   border-radius: 8px;
 }
 
 .header {
-  background: linear-gradient(135deg, #D32F2F 0%, rgb(170.8571428571, 36.1428571429, 36.1428571429) 100%);
-  color: #FFFFFF;
+  background: linear-gradient(135deg, #d32f2f 0%, rgb(170.8571428571, 36.1428571429, 36.1428571429) 100%);
+  color: #ffffff;
   padding: 32px 0;
   text-align: center;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
@@ -130,7 +135,7 @@ section {
   }
 }
 .header h1 {
-  color: #FFFFFF;
+  color: #ffffff;
   margin-bottom: 8px;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
 }
@@ -146,7 +151,7 @@ section {
 }
 
 .sobre {
-  background-color: #FFF9E6;
+  background-color: #fff9e6;
 }
 .sobre .sobre-content {
   max-width: 800px;
@@ -164,7 +169,7 @@ section {
 }
 
 .produtos {
-  background-color: #FFFFFF;
+  background-color: #ffffff;
 }
 .produtos .produtos-grid {
   display: grid;
@@ -183,8 +188,8 @@ section {
   }
 }
 .produtos .produto-card {
-  background-color: #FFFFFF;
-  border: 2px solid #F5F5F5;
+  background-color: #ffffff;
+  border: 2px solid #f5f5f5;
   border-radius: 12px;
   padding: 24px;
   text-align: center;
@@ -193,19 +198,19 @@ section {
 .produtos .produto-card:hover {
   transform: translateY(-5px);
   box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
-  border-color: #388E3C;
+  border-color: #388e3c;
 }
 .produtos .produto-card.destaque {
-  background: linear-gradient(135deg, #388E3C 0%, rgb(41.5757575758, 105.4242424242, 44.5454545455) 100%);
-  color: #FFFFFF;
-  border-color: #388E3C;
+  background: linear-gradient(135deg, #388e3c 0%, rgb(41.5757575758, 105.4242424242, 44.5454545455) 100%);
+  color: #ffffff;
+  border-color: #388e3c;
 }
 .produtos .produto-card.destaque .produto-icon {
   font-size: 4rem;
   margin-bottom: 16px;
 }
 .produtos .produto-card.destaque h3 {
-  color: #FFFFFF;
+  color: #ffffff;
 }
 .produtos .produto-card.destaque p {
   color: rgba(255, 255, 255, 0.9);
@@ -215,7 +220,7 @@ section {
   margin-bottom: 16px;
 }
 .produtos .produto-card h3 {
-  color: #D32F2F;
+  color: #d32f2f;
   margin-bottom: 8px;
   font-size: 24px;
 }
@@ -225,14 +230,14 @@ section {
 }
 
 .contato {
-  background-color: #FFF9E6;
+  background-color: #fff9e6;
 }
 .contato .contato-content {
   max-width: 700px;
   margin: 0 auto;
 }
 .contato .contato-info {
-  background-color: #FFFFFF;
+  background-color: #ffffff;
   border-radius: 16px;
   padding: 32px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
@@ -248,13 +253,13 @@ section {
 }
 .contato .contato-info .info-item .icon {
   font-size: 1.5rem;
-  color: #388E3C;
+  color: #388e3c;
   margin-right: 16px;
   min-width: 30px;
 }
 .contato .contato-info .info-item .text strong {
   display: block;
-  color: #D32F2F;
+  color: #d32f2f;
   margin-bottom: 4px;
 }
 .contato .contato-info .info-item .text p {
@@ -263,8 +268,8 @@ section {
 }
 .contato .whatsapp-button {
   display: inline-block;
-  background: linear-gradient(135deg, #25D366 0%, #128C7E 100%);
-  color: #FFFFFF;
+  background: linear-gradient(135deg, #25d366 0%, #128c7e 100%);
+  color: #ffffff;
   padding: 16px 32px;
   border-radius: 16px;
   font-size: 18px;
@@ -283,7 +288,7 @@ section {
 .contato .whatsapp-button:hover {
   transform: translateY(-3px);
   box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
-  background: linear-gradient(135deg, #128C7E 0%, #25D366 100%);
+  background: linear-gradient(135deg, #128c7e 0%, #25d366 100%);
 }
 .contato .whatsapp-button .icon {
   font-size: 1.8rem;
@@ -291,7 +296,7 @@ section {
 
 .footer {
   background-color: #424242;
-  color: #FFFFFF;
+  color: #ffffff;
   padding: 24px 0;
   text-align: center;
 }
@@ -302,12 +307,12 @@ section {
 }
 .footer .legal-notice {
   background-color: rgba(211, 47, 47, 0.2);
-  border: 2px solid #D32F2F;
+  border: 2px solid #d32f2f;
   border-radius: 8px;
   padding: 16px;
   margin-top: 16px;
   font-weight: 600;
-  color: #FBC02D;
+  color: #fbc02d;
 }
 
 /*# sourceMappingURL=style.css.map */

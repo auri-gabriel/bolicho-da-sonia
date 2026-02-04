@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- Página Principal -->
+  <url>
+    <loc>https://bolichodasonia.com.br</loc>
+    <lastmod>2026-02-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://bolichodasonia.com.br/logo.png</image:loc>
+      <image:title>Logo Bolicho da Sônia</image:title>
+      <image:caption>Mercadinho de bairro em Alegrete/RS</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Seção Sobre -->
+  <url>
+    <loc>https://bolichodasonia.com.br#sobre</loc>
+    <lastmod>2026-02-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Seção Produtos -->
+  <url>
+    <loc>https://bolichodasonia.com.br#produtos</loc>
+    <lastmod>2026-02-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Seção Contato -->
+  <url>
+    <loc>https://bolichodasonia.com.br#contato</loc>
+    <lastmod>2026-02-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+</urlset>
