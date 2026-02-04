@@ -1,0 +1,17 @@
+{
+  "name": "bolicho-da-sonia",
+  "version": "1.0.0",
+  "description": "Site institucional do Bolicho da Sônia - Mercadinho de bairro em Alegrete/RS",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "scss": "sass src/scss/main.scss dist/css/style.css",
+    "scss:watch": "sass --watch src/scss/main.scss dist/css/style.css",
+    "build": "npm run scss"
+  },
+  "devDependencies": {
+    "sass": "^1.77.0"
+  }
+}

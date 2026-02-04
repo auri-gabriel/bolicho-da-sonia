@@ -1,0 +1,50 @@
+// Paleta de Cores - Inspirada no Logo do Bolicho da Sônia
+// Vermelho, Verde e Tons Claros
+
+// Cores Principais
+$primary-red: #d32f2f;
+$primary-green: #388e3c;
+$accent-yellow: #fbc02d;
+
+// Cores Secundárias
+$light-bg: #fff9e6;
+$white: #ffffff;
+$light-gray: #f5f5f5;
+$gray: #757575;
+$dark-gray: #424242;
+
+// Tipografia
+$font-primary: 'Poppins', sans-serif;
+$font-secondary: 'Nunito', sans-serif;
+
+// Tamanhos de Fonte
+$font-size-base: 16px;
+$font-size-small: 14px;
+$font-size-medium: 18px;
+$font-size-large: 24px;
+$font-size-xlarge: 32px;
+$font-size-xxlarge: 48px;
+
+// Espaçamentos
+$spacing-xs: 8px;
+$spacing-sm: 16px;
+$spacing-md: 24px;
+$spacing-lg: 32px;
+$spacing-xl: 48px;
+$spacing-xxl: 64px;
+
+// Bordas
+$border-radius-sm: 8px;
+$border-radius-md: 12px;
+$border-radius-lg: 16px;
+
+// Breakpoints
+$breakpoint-mobile: 320px;
+$breakpoint-tablet: 768px;
+$breakpoint-desktop: 1024px;
+$breakpoint-wide: 1440px;
+
+// Sombras
+$shadow-sm: 0 2px 4px rgba(0, 0, 0, 0.1);
+$shadow-md: 0 4px 8px rgba(0, 0, 0, 0.15);
+$shadow-lg: 0 8px 16px rgba(0, 0, 0, 0.2);
