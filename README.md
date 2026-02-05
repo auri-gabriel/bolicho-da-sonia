@@ -60,4 +60,3 @@ Abra o arquivo `index.html` em um navegador ou use um servidor local como Live S
    - Frios & Laticínios
 4. **Contato** - Informações de contato e botão WhatsApp
 5. **Footer** - Aviso legal sobre idade mínima
-
