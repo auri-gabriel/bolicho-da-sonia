@@ -213,6 +213,19 @@
       font-size: 1.8rem;
     }
   }
+
+  .map-container {
+    margin-top: $spacing-md;
+    border-radius: $border-radius-lg;
+    overflow: hidden;
+    box-shadow: $shadow-md;
+    border: 2px solid $light-gray;
+
+    iframe {
+      display: block;
+      width: 100%;
+    }
+  }
 }
 
 // Footer
